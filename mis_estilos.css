@@ -1,0 +1,31 @@
+body{
+    font-family: monospace;
+    
+}
+section h1 {
+  dff  color: rgb(29, 48, 226);
+}
+#perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+#banner{
+    width: 100%;
+    background-color: rgb(29, 59, 97);
+}
+#imagenArgProg{
+    width: 10%;
+    vertical-align: text-bottom;
+}
+#imagenBanner{
+    width: 75%;
+    display: block;
+    margin:auto;
+}
+#logoFace{
+    width: 5%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
